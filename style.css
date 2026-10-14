@@ -1,0 +1,31 @@
+   
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #66a6fa;
+}
+
+.titulo {
+    font-size: 65px;
+    color: aliceblue;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+    
+.cabeçalho {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+     
+nav a {
+    color: aliceblue;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 20px;
+}
+     
+nav a:hover {
+    text-decoration: underline;
+ }
